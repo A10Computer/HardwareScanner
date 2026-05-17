@@ -31,3 +31,6 @@ Storage devices (partitions, free / used capacity)
 Operating system (version, build, uptime, user, updates)
 
 Export Data to HTML
+
+
+**Free to use at your own Risk!**
