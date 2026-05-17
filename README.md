@@ -8,3 +8,16 @@
 
 A modern **Windows Hardware Inspection Tool** built with **PowerShell + WPF**, providing a clean graphical interface for deep system diagnostics and reporting.
 
+Modern graphical hardware analysis tool for Windows, built with PowerShell and WPF.
+The application collects detailed system information via WMI/CIM and displays it in a clean, user-friendly interface — including HTML dashboard export functionality.
+
+🖥 System Overview
+CPU (cores, threads, clock speed, cache, architecture, virtualization)
+RAM (slots, memory type, manufacturer, speed, usage)
+GPU (VRAM, drivers, resolution, vendor, utilization)
+BIOS (version, manufacturer, Secure Boot, serial number)
+Mainboard (board information + detected chipset devices)
+Network adapters (IP, MAC, speed, driver status)
+Storage devices (partitions, free / used capacity)
+Operating system (version, build, uptime, user, updates)
+Export Data to HTML
