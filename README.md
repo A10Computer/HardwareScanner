@@ -1,4 +1,4 @@
-# 💻 Hardware Scanner 3.0 for Windows 
+# 💻 Hardware Scanner 3.1 for Windows 
 
 ![PowerShell](https://img.shields.io/badge/PowerShell-5.1%2B-blue?logo=powershell)
 ![Platform](https://img.shields.io/badge/Platform-Windows-0078D6?logo=windows)
@@ -13,6 +13,8 @@ The application collects detailed system information via WMI/CIM and displays it
 
 
 🖥 System Overview
+
+Language: English + Deutsch
 
 CPU (cores, threads, clock speed, cache, architecture, virtualization)
 
